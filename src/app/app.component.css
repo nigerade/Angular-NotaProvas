@@ -1,0 +1,19 @@
+p {
+  text-align: center;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.butao {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 5px;
+}
